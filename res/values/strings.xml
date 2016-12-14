@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string-array name="role">
+    <item >select role</item>
+    <item >Admin</item>
+    <item >User</item>
+</string-array>
+<string-array name="subject">
+    <item >subject</item>
+    <item >Java</item>
+    <item >Php</item>
+    <item >Android</item>
+    <item >Python</item>
+    
+</string-array>
+<array name="opt">
+    <item >1</item>
+    <item >2</item>
+    <item >3</item>
+    <item >4</item>
+    
+    
+</array>
+</resources>
